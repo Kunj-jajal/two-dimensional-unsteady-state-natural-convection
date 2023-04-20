@@ -73,7 +73,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/kunj-jajal/two-dimensional-unsteady-state-natural-convection?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/kunj-jajal/two-dimensional-unsteady-state-natural-convection?color=green&style=for-the-badge
 [contributors-url]: https://github.com/kunj-jajal/two-dimensional-unsteady-state-natural-convection/graphs/contributors
 [license-shield]: https://img.shields.io/github/license/kunj-jajal/two-dimensional-unsteady-state-natural-convection?style=for-the-badge
 [license-url]: https://github.com/Kunj-jajal/two-dimensional-unsteady-state-natural-convection/blob/main/LICENSE
